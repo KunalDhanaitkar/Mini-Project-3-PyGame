@@ -22,3 +22,5 @@ The ship is partially protected by several stationary defense bunkers that are g
 * ESC to exit game
 
 ## Images
+
+![Screenshot](https://github.com/KunalDhanaitkar/Mini-Project-3-PyGame/issues/1#issue-875051789)
