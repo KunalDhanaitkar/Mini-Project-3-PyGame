@@ -23,4 +23,3 @@ The ship is partially protected by several stationary defense bunkers that are g
 
 ## Images
 
-![Screenshot](https://github.com/KunalDhanaitkar/Mini-Project-3-PyGame/issues/1#issue-875051789)
