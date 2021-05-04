@@ -23,3 +23,5 @@ The ship is partially protected by several stationary defense bunkers that are g
 
 ## Images
 
+![Screenshot](https://user-images.githubusercontent.com/78525041/116955186-d7f59a80-ac5f-11eb-88fe-edf490b2560d.png)
+![Screenshot](https://user-images.githubusercontent.com/78525041/116955187-d926c780-ac5f-11eb-8c0d-96021aaab568.png)
