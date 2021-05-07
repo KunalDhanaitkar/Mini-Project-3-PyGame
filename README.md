@@ -18,8 +18,15 @@ The ship is partially protected by several stationary defense bunkers that are g
 
 * Press any key to play
 * Arrow keys for movement
-* when in-game, fire Rockets by hitting Spacebar
+* When in-game, fire Rockets by hitting Spacebar
 * ESC to exit game
+
+## Features
+
+* Revisit the classic Space Invaders arcade video game responsible for starting the golden age of video game.
+* The Player Ship shoots the Aliens and in doing so gain score followed by level ups.
+* Space Invader Game with Multiple Levels. At Each Level, The Enemies Group gets Reset, although the Hero's Lives and the Blockers on the Screen remain the same. This was achieved by defining a reset() function, which calls all the functions when a new level start but makes sure not everything gets reset.
+* The Player(Hero) will have a special ability of Shooting with 2 Rockets at the same time after they has scored a certain amount of points. 
 
 ## Images
 
